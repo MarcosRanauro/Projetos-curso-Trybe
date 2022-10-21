@@ -1,18 +1,23 @@
 * {
   margin: 0;
+  padding: 0;
 }
 
 body {
-  background-image: url("arcoiris.png");
+  background-image: url("Images/image6.gif");
+  background-size: 100%;
 }
 
 #title {
-    display: inline-block;
-    margin-left: 42%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    color: white;
 }
 
 #color-palette {
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .color {
@@ -25,13 +30,14 @@ body {
   }
 
   #pixel-board {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 41%;
+    margin-top: 40px;
     border: 1px solid black;
-    height: 375px;
-    width: 360px;
-    display: inline-block;
-    position: absolute;
-    left: 37%;
-    margin-top: 90px;
+    height: 365px;
+    width: 365px;
   }
   .pixel {
     border: 1px solid black;
@@ -42,15 +48,22 @@ body {
     background-color: white;
   }
 
-#button-random-color {
+/* #button-random-color {
   margin-left: 35%;
   margin-top: 30px;
   display: inline-block;
 
-}
+} */
 
 .btn {
   padding: 5px;
   border: 10px;
   cursor: pointer;
+  margin-right: 20px;
+}
+
+#botoes {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
 }
