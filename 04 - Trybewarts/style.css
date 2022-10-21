@@ -1,0 +1,172 @@
+@font-face {
+  font-family: 'Harry';
+  src: url('HarryPotter-ov4z.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  background-image: url(images/HP2.jpg);
+  background-size: auto;
+  font-family: 'Harry', 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.flex-main {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.6);
+}
+
+
+.header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.header img {
+  width: 65px;
+  margin-left: 15px;
+}
+
+
+.trybewarts-login {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.trybewarts-login label {
+  margin-right: 10px;
+}
+
+#trybewarts-forms-logo {
+  height: 900px;
+  width: 50%;
+}
+
+#dadosPessoais {
+  display: grid; /* ? https://developer.mozilla.org/en-US/docs/Web/CSS/grid */
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+fieldset {
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid gray;
+  margin-bottom: 16px;
+}
+
+#habilidades {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+}
+
+#label-family-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+#label-family-div label {
+  padding: 5px;
+}
+
+#label-checkbox-div {
+  display: flex;
+  flex-direction: column;
+}
+
+#input-checkbox {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  width: 70%;
+  margin-top: 10px;
+}
+
+#input-checkbox label {
+  margin-right: 4px;
+  margin-bottom: 15px;
+}
+
+textarea {
+  width: 100%;
+  resize: none;
+}
+
+.textarea {
+  margin-bottom: 8px;
+}
+
+.main-textarea {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-textarea div {
+  position: relative;
+}
+
+.main-textarea span {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  transform: translate(-40%, -50%);
+  color: black;
+}
+
+.main-agreement {
+  display: flex;
+  justify-content: center;
+}
+
+#agreement {
+  margin-left: 10px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  background-color: rgb(50, 167, 145);
+  padding: 10px;
+}
+
+#form-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 40%;
+  height: auto;
+  margin-top: 150px;
+  word-wrap: break-word;
+  font-size: 30px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.7);
+}
