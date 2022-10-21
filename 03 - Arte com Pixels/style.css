@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-image: url("arcoiris.png");
+}
+
+#title {
+    display: inline-block;
+    margin-left: 42%;
+}
+
+#color-palette {
+    text-align: center;
+}
+
+.color {
+    padding: 15px;
+    width: 30px;
+    height:30px;
+    display: inline-block;
+    margin-right: 5px;
+    border: 1px solid black;
+  }
+
+  #pixel-board {
+    border: 1px solid black;
+    height: 375px;
+    width: 360px;
+    display: inline-block;
+    position: absolute;
+    left: 37%;
+    margin-top: 90px;
+  }
+  .pixel {
+    border: 1px solid black;
+    padding: 15px 15px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    background-color: white;
+  }
+
+#button-random-color {
+  margin-left: 35%;
+  margin-top: 30px;
+  display: inline-block;
+
+}
+
+.btn {
+  padding: 5px;
+  border: 10px;
+  cursor: pointer;
+}
