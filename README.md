@@ -1,2 +1,3 @@
-# Projetos-curso-Trybe
-Repositório para os projetos do curso.
+# Boas-vindas ao repositório para projetos do curso da Trybe!
+
+Aqui você vai encontrar todos os projetos realizados durante minha caminhada no curso da Trybe.
