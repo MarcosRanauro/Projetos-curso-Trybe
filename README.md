@@ -25,12 +25,14 @@
 - ``Arte com Pixels``
 - ``Trybewarts``
 - ``JavaScript - Testes Unitarios``
+<img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image12.gif"/>  
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``JavaScript``
 - ``HTML``
 - ``CSS``
+<img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image9.gif"/>
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/MarcosRanauro/Projetos-curso-Trybe.git).
