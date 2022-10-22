@@ -2,4 +2,4 @@
 
 Aqui você vai encontrar todos os projetos realizados durante minha caminhada no curso da Trybe.
 
-implementando teste
+implementando teste.
