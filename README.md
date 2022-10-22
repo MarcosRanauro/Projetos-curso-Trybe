@@ -12,12 +12,12 @@
 </p>
 
 # Índice 
-* [Título e Imagem de capa](https://github.com/MarcosRanauro/Projetos-curso-Trybe/edit/main/README.md#boas-vindas-ao-reposit%C3%B3rio-para-projetos-do-curso-da-trybe)
-* [Status do Projeto](https://github.com/MarcosRanauro/Projetos-curso-Trybe/edit/main/README.md#badges)
+* [Título e Imagem de capa](#boas-vindas-ao-reposit%C3%B3rio-para-projetos-do-curso-da-trybe)
+* [Status do Projeto](#badges)
 * [Índice](#índice)
-* [Projetos Desenvolvidos!](https://github.com/MarcosRanauro/Projetos-curso-Trybe/edit/main/README.md#hammer-projetos-desenvolvidos)
-* [Técnicas e tecnologias utilizadas](https://github.com/MarcosRanauro/Projetos-curso-Trybe/edit/main/README.md#%EF%B8%8F-t%C3%A9cnicas-e-tecnologias-utilizadas)
-* [Acesso ao Projeto](https://github.com/MarcosRanauro/Projetos-curso-Trybe/edit/main/README.md#-acesso-ao-projeto)
+* [Projetos Desenvolvidos!](#hammer-projetos-desenvolvidos)
+* [Técnicas e tecnologias utilizadas](#%EF%B8%8F-t%C3%A9cnicas-e-tecnologias-utilizadas)
+* [Acesso ao Projeto](#-acesso-ao-projeto)
 
 # :hammer: Projetos Desenvolvidos!
 - ``Lessons Learned``
