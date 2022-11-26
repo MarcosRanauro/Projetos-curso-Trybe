@@ -1,0 +1,41 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  margin: 0;
+  background-image: url("/home/marcos-ranauro/Trybe/Projetos/sd-027-b-project-solar-system/src/images/background.png");
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 242.72px;
+  left: 461.8px;
+  top: 41.94px;
+  transform: matrix(1, 0, 0.01, 1, 0, 0);
+  color: white;
+}
+
+.solarSystem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  width: auto;
+}
+
+.planetCard {
+  display: flex;
+}
+
+.title {
+  background-color: orange;
+  display: flex;
+} */
