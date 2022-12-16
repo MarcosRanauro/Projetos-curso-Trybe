@@ -1,0 +1,32 @@
+.form-container {
+  position: absolute;
+  display: flex;
+  width: 81.50%;
+  height: 30%;
+  left: 250px;
+  top: 0px;
+  /* background: linear-gradient(123.66deg, #003BE5 12.08%, #00D5E2 86.52%); */
+  background-image:url('../Images/background.png'), linear-gradient(#0452ed, #18b9cb);;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.input-search {
+  width: 400px;
+  height: 40px;
+  left: 504px;
+  top: 97.41px;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 23px;
+}
+
+.button-search {
+  width: 114px;
+  height: 40px;
+  left: 913px;
+  top: 97.41px;
+  background: #00D5E2;
+  border-radius: 23px;
+}
