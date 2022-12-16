@@ -20,16 +20,16 @@
 * [Acesso ao Projeto](#-acesso-ao-projeto)
 
 # :hammer: Projetos Desenvolvidos!
-- ``Lessons Learned``
-- ``Playground Functions``
-- ``Arte com Pixels``
-- ``Trybewarts``
-- ``JavaScript - Testes Unitarios``
-- ``Zoo Functions``
+- [``Lessons Learned``]
+- [``Playground Functions``]
+- [``Arte com Pixels``]
+- [``Trybewarts``]
+- [``JavaScript - Testes Unitarios``]
+- [``Zoo Functions``]
 - [``Shopping Cart``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/07%20-%20Shopping%20Cart)
-- ``Solar System``
-- ``Tryunfo``
-- ``Trybe Tunes``
+- [``Solar System``]
+- [``Tryunfo``]
+- [``Trybe Tunes``]
 <img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image12.gif"/>
 
 ## ✔️ Técnicas e tecnologias utilizadas
