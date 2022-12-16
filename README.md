@@ -20,7 +20,7 @@
 * [Acesso ao Projeto](#-acesso-ao-projeto)
 
 # :hammer: Projetos Desenvolvidos!
-- [``Lessons Learned``]
+- [``Lessons Learned``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/01%20-%20Lessons%20Learned)
 - [``Playground Functions``]
 - [``Arte com Pixels``]
 - [``Trybewarts``]
