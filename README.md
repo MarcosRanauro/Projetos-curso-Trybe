@@ -27,7 +27,10 @@
 - ``JavaScript - Testes Unitarios``
 - ``Zoo Functions``
 - [``Shopping Cart``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/07%20-%20Shopping%20Cart)
-<img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image12.gif"/>  
+<img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image12.gif"/>
+- ``Solar System``
+- ``Tryunfo``
+- ``Trybe Tunes``
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
