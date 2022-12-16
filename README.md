@@ -37,6 +37,7 @@
 - ``JavaScript``
 - ``HTML``
 - ``CSS``
+- ``React``
 <img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image9.gif"/>
 
 ## 📁 Acesso ao projeto
