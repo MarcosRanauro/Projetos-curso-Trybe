@@ -21,15 +21,15 @@
 
 # :hammer: Projetos Desenvolvidos!
 - [``Lessons Learned``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/01%20-%20Lessons%20Learned)
-- [``Playground Functions``]
-- [``Arte com Pixels``]
-- [``Trybewarts``]
-- [``JavaScript - Testes Unitarios``]
-- [``Zoo Functions``]
+- [``Playground Functions``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/02%20-%20Playground%20Functions)
+- [``Arte com Pixels``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/03%20-%20Arte%20com%20Pixels)
+- [``Trybewarts``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/04%20-%20Trybewarts)
+- [``JavaScript - Testes Unitarios``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/05%20-%20JavaScript%20Teste%20Unitarios)
+- [``Zoo Functions``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/06%20-%20Zoo%20Functions)
 - [``Shopping Cart``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/07%20-%20Shopping%20Cart)
-- [``Solar System``]
-- [``Tryunfo``]
-- [``Trybe Tunes``]
+- [``Solar System``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/08%20-%20Solar%20System)
+- [``Tryunfo``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/09%20-%20Tryunfo)
+- [``Trybe Tunes``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/10%20-%20Trybe%20Tunes)
 <img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image12.gif"/>
 
 ## ✔️ Técnicas e tecnologias utilizadas
