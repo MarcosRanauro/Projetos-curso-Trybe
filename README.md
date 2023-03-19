@@ -30,6 +30,12 @@
 - [``Solar System``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/08%20-%20Solar%20System)
 - [``Tryunfo``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/09%20-%20Tryunfo)
 - [``Trybe Tunes``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/10%20-%20Trybe%20Tunes)
+- [``Front-End Online Store``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/11%20-%20Front-end%20Online%20Store)
+- [``Testes em React``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/12%20-%20Testes%20em%20React)
+- [``Trybe Wallet``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/13%20-%20Trybe%20Wallet)
+- [``Jogo de Trivia``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/14%20-%20Jogo%20de%20Trivia)
+- [``Star Wars``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/15%20-%20Star%20Wars)
+- [``App de Receitas``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
 <img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image12.gif"/>
 
 ## ✔️ Técnicas e tecnologias utilizadas
