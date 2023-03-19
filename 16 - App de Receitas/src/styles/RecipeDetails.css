@@ -1,0 +1,15 @@
+.container-details {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.img-details {
+  width: 90%;
+}
+
+.container-img-details {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  width: 100%;
+}

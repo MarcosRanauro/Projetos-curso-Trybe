@@ -1,0 +1,24 @@
+.container-results {
+  align-items: center;
+  display: flex;
+  flex-flow: wrap;
+  gap: 10px;
+  justify-content: center;
+  width: 100%;
+}
+
+.card {
+  border: 1px solid hsl(0, 0%, 69%);
+  border-radius: 5px;
+  height: 166.21px;
+  width: 44%;
+}
+
+.img-result {
+  height: 70%;
+  width: 100%;
+}
+
+.title-card {
+  margin: 0;
+}

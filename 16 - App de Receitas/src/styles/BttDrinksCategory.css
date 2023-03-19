@@ -1,0 +1,18 @@
+.container-btt-meals {
+  margin-bottom: 15px;
+  width: 100vw;
+}
+
+.icons-search-meals {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0;
+  width: 96%;
+}
+
+.icon-recipes {
+  background: none;
+  border: none;
+  width: 15%;
+}
