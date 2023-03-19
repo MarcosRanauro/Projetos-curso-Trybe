@@ -1,0 +1,7 @@
+table {
+  border: solid 5px;
+  display: block;
+  flex-direction: column;
+  height: 40vh;
+  width: 200vh;
+}

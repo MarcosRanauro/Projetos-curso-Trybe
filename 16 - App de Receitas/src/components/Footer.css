@@ -1,0 +1,26 @@
+footer {
+  align-items: center;
+  background: hsl(264, 67%, 30%);
+  bottom: 0;
+  display: flex;
+  height: 9vh;
+  justify-content: space-around;
+  position: fixed;
+  top: 550px;
+  width: 100vw;
+}
+
+.footer-drink {
+  height: 30px;
+  width: 35px;
+}
+
+.footer-meal {
+  height: 30px;
+  width: 35px;
+}
+
+.footer-btn {
+  background: none;
+  border: none;
+}

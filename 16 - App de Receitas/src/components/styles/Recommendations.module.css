@@ -1,0 +1,36 @@
+.recommendations {
+  display: flex;
+  height: 40vh;
+
+
+  /* ajuste a largura e altura de acordo com sua necessidade */
+  max-width: 100vw;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  width: 100vw;
+}
+
+.img {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+
+  /* ajuste a largura e altura de acordo com sua necessidade */
+}
+
+.card {
+  flex: none;
+  height: 100%;
+  width: 50%;
+}
+
+.image {
+  height: 80%;
+  width: 100%;
+}
+
+.title {
+  height: 20%;
+  width: 100%;
+}

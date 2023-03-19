@@ -1,0 +1,15 @@
+.app {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@import './styles/Login.css' ;
+
+@import './styles/BttMealsCategory.css' ;
+
+@import './styles/BttDrinksCategory.css' ;
+
+@import './styles/MealsInitialRecipes.css' ;
+
+@import './styles/RecipeDetails.css' ;

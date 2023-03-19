@@ -1,0 +1,1 @@
+{"fileName":"/home/marcos-ranauro/Trybe/Projetos/sd-027-b-project-react-testing-library/src/components/Pokemon.js","id":"5","location":{"start":{"column":11,"line":22},"end":{"column":79,"line":22}},"mutatorName":"ConditionalExpression","replacement":"false","statusReason":"Ignored because of excluded mutation \"ConditionalExpression\"","status":"Ignored","static":false}

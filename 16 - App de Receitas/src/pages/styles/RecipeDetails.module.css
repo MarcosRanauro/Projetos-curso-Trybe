@@ -1,0 +1,23 @@
+/* .recomendeçoes {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  height: 200px;
+  margin: 20px 0;
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+} */
+
+.rec {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.button {
+  bottom: 0;
+  color: #030000;
+  display: flex;
+  margin-bottom: 120px;
+  position: fixed;
+}
