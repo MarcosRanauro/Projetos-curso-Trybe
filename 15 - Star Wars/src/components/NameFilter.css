@@ -1,0 +1,17 @@
+.namefilter-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+
+}
+
+.namefilter-container input {
+  padding: 10px;
+  text-align: center;
+  width: 300px;
+}
+
+input::placeholder {
+  color: red;
+}
