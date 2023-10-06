@@ -50,11 +50,16 @@
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``JavaScript``
+- ``TypeScript``
 - ``HTML``
 - ``CSS``
 - ``React``
 - ``Redux``
 - ``React Router``
+- ``Docker``
+- ``MySQL``
+- ``Node.js``
+- ``POO``
 <img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image9.gif"/>
 
 ## 📁 Acesso ao projeto
