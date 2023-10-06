@@ -36,6 +36,15 @@
 - [``Jogo de Trivia``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/14%20-%20Jogo%20de%20Trivia)
 - [``Star Wars``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/15%20-%20Star%20Wars)
 - [``App de Receitas``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``Docker Todo List``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``All For One``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``One For All``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``Talker Manager``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``Store Manager``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``Blogs Api``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``Trybesmith``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``Trybers and Dragons``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
+- [``Trybe Futebol Clube``](https://github.com/MarcosRanauro/Projetos-curso-Trybe/tree/main/16%20-%20App%20de%20Receitas)
 <img src="https://github.com/MarcosRanauro/Projetos-curso-Trybe/blob/main/03%20-%20Arte%20com%20Pixels/Images/image12.gif"/>
 
 ## ✔️ Técnicas e tecnologias utilizadas
